@@ -1,0 +1,6 @@
+{
+  "name": "MEDISEVA 360 24/7",
+  "description": "Pan-India 24/7 Healthcare Platform with All 15 Healthcare Networks, Hospital & Patient Dashboards, Real Web Notifications, Leaflet Map, Online & Offline Payments, and Multilingual AI Medical Assistant.",
+  "requestFramePermissions": ["notifications", "geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
